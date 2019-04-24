@@ -80,11 +80,13 @@ function spotifyThisSong(result) {
         return console.log("The sign by Ace of Base")
       } else if (response) {
 
-        let respSong = data.tracks.items;
+        let respSong = response.tracks.items;
 
         respSong.forEach(respSong => {
           console.log(`
-            ${respSong.tracks}
+            ${respSong.name},
+            ${respSong.Artist},
+              ${respSong.Album},
           `)
 
         })
