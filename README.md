@@ -1,4 +1,10 @@
 # liri-node-app
+### Liri bot uses node js to search for 
+
+### Songs, Concerts, and Movies
+
+### node liri.js concert-this/spotify-this-song/movie-this
+
 <img width="1128" alt="concert-this1" src="https://user-images.githubusercontent.com/48460328/57986883-6ad3a500-7a48-11e9-94ab-c4cf3dd5710f.PNG">
 <img width="1128" alt="concert-this2" src="https://user-images.githubusercontent.com/48460328/57986890-7d4dde80-7a48-11e9-9830-2e2e9420406d.PNG">
 <img width="1128" alt="movie-this" src="https://user-images.githubusercontent.com/48460328/57986894-8179fc00-7a48-11e9-8f56-240a07e027ad.PNG">
